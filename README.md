@@ -17,3 +17,10 @@ Run `backend.py` in the `backend` folder in Python, and then `npm run dev` in th
 
 用 Python 运行 backend 文件夹中的 `backend.py`，然后在根目录下 `npm run dev` 即可。
 
+## screenshot
+
+![img_1.png](pic/img_1.png)
+
+![img_2.png](pic/img_2.png)
+
+![img_3.png](pic/img_3.png)
