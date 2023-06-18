@@ -1,0 +1,5 @@
+/*公共字体的样式 */
+@font-face {
+    font-family: 'apple';
+    src: url('./common/apple.ttf') format('truetype'); /* Safari, Android, iOS */
+}
